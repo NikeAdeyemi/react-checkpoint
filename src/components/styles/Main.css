@@ -1,0 +1,32 @@
+main{
+    margin: 30px;
+}
+.main-one{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.main-one h1{
+   color: #3C567B; 
+   font-size: 48px;
+}
+.main-one p{
+    color: #458FF6;
+    font-size: 22px;
+}
+button{
+    margin-top: 30px;
+    background-color: #458FF6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+}
+.image-div{
+    padding-right: 10px;
+}
+.image-div img{
+    width: 400px;
+}

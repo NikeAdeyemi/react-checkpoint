@@ -1,0 +1,48 @@
+.maintwo{
+    /* margin: 30px; */
+    padding: 50px;
+    background-color: whitesmoke;
+}
+.service-img{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin: 30px;
+    width: 700px;
+}
+.service-img div{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.maintwo i{
+    color: #458FF6;
+    font-size: 50px;
+}
+.maintwo h6{
+    color: gray;
+    text-align: center;
+}
+.maintwo h4{
+    text-align: center;
+}
+.services{
+    text-align: center;
+}
+.services h3{
+    font-size: 40px;
+    color: #462E6A;
+}
+.services p{
+    font-size: 18px;         
+}
+.maintwo button{
+    margin-top: 30px;
+    background-color: white;
+    color: #458FF6;
+    padding: 10px 20px;
+    border: 1px solid #458FF6;
+    border-radius: 50px;
+    font-size: 16px;
+    align-content: center;
+}
